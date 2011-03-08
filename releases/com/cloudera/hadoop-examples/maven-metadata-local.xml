@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cloudera.hadoop</groupId>
+  <artifactId>hadoop-examples</artifactId>
+  <version>0.20.2-323</version>
+  <versioning>
+    <versions>
+      <version>0.20.2-323</version>
+    </versions>
+    <lastUpdated>20110308205711</lastUpdated>
+  </versioning>
+</metadata>
